@@ -80,4 +80,39 @@ class UserIntegrationTests {
 
         assertNull errorsFromCreateUser.getFieldError("userId")
     }
+
+    @Test
+    /**
+     * The user will not be persisted as the constrains are not met
+     * An error will be thrown and corrected.
+     */
+    void testSaveThatWillFailAndRecover() {
+        testUserName = 'Chuck_Norris'
+        String testPasswordNotMeetingConstraints = 'Tiny'
+        String testHomePageNotMeetingConstrains = 'knackered.'
+
+        String compliantPassword  = 'DonkeyBo'
+        String compliantHomePage =   'https://www.lookatme.com'
+
+        def user = new User(userId: testUserName, password: testPasswordNotMeetingConstraints,
+                homepage: testHomePageNotMeetingConstrains)
+
+        assertFalse(user.validate())
+        assertTrue(user.hasErrors())
+        assertNull user.save()
+
+        user.password = compliantPassword
+        user.homepage = compliantHomePage
+        assertTrue(user.validate())
+        assertFalse(user.hasErrors())
+        assertNotNull user.save()
+    }
+    @Test
+    void testPasswordNotSameAsUsername(){
+
+        def user = new User(userId:testPassword, password: testPassword )
+        assertFalse user.validate()
+        assertEquals 'validator.invalid', user.errors.getFieldError("password").code
+
+    }
 }
