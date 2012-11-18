@@ -7,7 +7,7 @@ class User {
     String homepage
 //    Grails will add sysdate as default because it sees dateCreated
     Date dateCreated
-//   makre sure that we have a 1:1 mapping, leave this out would create a 1:m
+//   make sure that we have a 1:1 mapping, leave this out would create a 1:m
     Profile profile
 
 
@@ -24,6 +24,8 @@ class User {
     static mapping = {
 //        load profile with User
         profile lazy: false
+//        only sort when accessing posts from the user
+//        posts sort:'dateCreated'
     }
-    static hasMany = [post: Post]
+    static hasMany = [ posts : Post, tags : Tag ]
 }
