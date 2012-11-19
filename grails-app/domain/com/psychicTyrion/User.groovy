@@ -1,5 +1,7 @@
 package com.psychicTyrion
-
+/**
+ * The user class defines the user, the user can also follow a user through a recursive join
+ */
 class User {
 
     String userId
@@ -15,7 +17,7 @@ class User {
 
         userId size: 3..20, unique: true
         password size: 6..8, validator: { passwd, user ->
-            return passwd != user.userId
+            passwd != user.userId
         }
         homepage url: true, nullable: true
         dateCreated()
@@ -27,5 +29,6 @@ class User {
 //        only sort when accessing posts from the user
 //        posts sort:'dateCreated'
     }
-    static hasMany = [ posts : Post, tags : Tag ]
+//    following created the recursive join
+    static hasMany = [posts: Post, tags: Tag, following: User]
 }
