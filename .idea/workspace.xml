@@ -7,7 +7,7 @@
     <ignored path="starling.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$USER_HOME$/.grails/" />
-    <file path="/Dummy.txt" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353626328854" ignored="false" />
+    <file path="/Dummy.txt" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353626388748" ignored="false" />
     <file path="/QueryIntegrationTests.groovy" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353626300210" ignored="false" />
     <file path="/DataSource.groovy" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353626183989" ignored="false" />
     <file path="/fragment.java" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353623042721" ignored="false" />
@@ -509,7 +509,11 @@
       <created>1353626345266</created>
       <updated>1353626345266</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="got sleepy">
+      <created>1353626395295</created>
+      <updated>1353626395295</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
