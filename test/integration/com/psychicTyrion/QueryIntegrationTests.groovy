@@ -46,6 +46,18 @@ class QueryIntegrationTests {
         new User(userId: 'peter', password: 'password').save()
         new User(userId: 'cynthia', password: 'sesame').save()
 
-//        page 111
+        def userToFind = new User(userId: 'glen')
+        def u1 = User.find(userToFind)
+        assertEquals('password', u1.password)
+
+        userToFind = new User(userId: 'cynthia')
+        def u2 = User.find(userToFind)
+        assertEquals('cynthia', u2.userId)
+
+        userToFind = new User(password: 'password')
+        def u3 = User.findAll(userToFind)
+        assertEquals(['glen', 'peter'], u3*.userId)
+
+
     }
 }

@@ -19,6 +19,15 @@
     <g:form action="results">
         <label for="userId">User Id</label>
         <g:textField name="userId"/>
+        <br>
+        <label for="password">Password</label>
+        <g:textField name="password"/>
+        <br>
+        <label for="homepage">Homepage</label>
+        <g:textField name="homepage"/>
+        <br>
+        <label for="queryType">Query Type</label>
+        <g:radioGroup values="1,2,3" name="queryType"/>
         <g:submitButton name="search" value="Search"/>
 
     </g:form>
