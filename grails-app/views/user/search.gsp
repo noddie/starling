@@ -15,7 +15,7 @@
 
 <body>
 <formset>
-    <legend>Advanced Search for Friends</legend>
+    <legend>Search for Friends</legend>
     <g:form action="results">
         <label for="userId">User Id</label>
         <g:textField name="userId"/>

@@ -6,6 +6,10 @@ class UserController {
 
     def search = {
     }
+    def advSearch = {
+
+    }
+
     def results = {
         def users = User.findAllByUserIdLike(params.userId)
         return [users: users, term: params.userId]

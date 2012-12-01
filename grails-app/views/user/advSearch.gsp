@@ -16,22 +16,36 @@
 <body>
 <formset>
     <legend>Advanced Search for Friends</legend>
-    <g:form action="results">
-        <label for="userId">User Id</label>
-        <g:textField name="userId"/>
-        <br>
-        <label for="password">Password</label>
-        <g:textField name="password"/>
-        <br>
-        <label for="homepage">Homepage</label>
-        <g:textField name="homepage"/>
-        <br>
-        <label for="queryType">Query Type</label>
-        <g:radioGroup values="1,2,3" name="queryType"/>
-        <g:submitButton name="search" value="Search"/>
+    <table>
 
-    </g:form>
+        <g:form action="results">
+            <tr>
+                <td>Name</td>
+                <td><g:textField name="fullName"/></td>
+            </tr>
 
+            <tr>
+                <td>EmailAddress</td>
+                <td><g:textField name="password"/></td>
+            </tr>
+            <tr><td>Homepage</td>
+                <td><g:textField name="homepage"/></td>
+            </tr>
+            <tr>
+                <td>Query Type</td>
+                %{--The order of the lables tag and values seem to matter here!--}%
+                <td><g:radioGroup name="queryType" labels="['And', 'Or', 'Not']" values="['and', 'or', 'not']"
+                                  value="and">
+                    ${it.radio} ${it.label}
+                </g:radioGroup>
+                </td>
+            </tr>
+            <tr>
+                <td><g:submitButton name="search" value="Search"/></td>
+            </tr>
+
+        </g:form>
+    </table>
 </formset>
 </body>
 </html>
