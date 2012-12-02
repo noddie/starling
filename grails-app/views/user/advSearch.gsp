@@ -17,16 +17,14 @@
 <formset>
     <legend>Advanced Search for Friends</legend>
     <table>
-
-        <g:form action="results">
+        <g:form action="advResults">
             <tr>
                 <td>Name</td>
                 <td><g:textField name="fullName"/></td>
             </tr>
-
             <tr>
                 <td>EmailAddress</td>
-                <td><g:textField name="password"/></td>
+                <td><g:textField name="email"/></td>
             </tr>
             <tr><td>Homepage</td>
                 <td><g:textField name="homepage"/></td>
@@ -41,9 +39,9 @@
                 </td>
             </tr>
             <tr>
+                </td>
                 <td><g:submitButton name="search" value="Search"/></td>
             </tr>
-
         </g:form>
     </table>
 </formset>

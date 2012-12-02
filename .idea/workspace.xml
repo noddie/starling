@@ -1,48 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" name="Default" comment="added grails test-app -coverage">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+    <list default="true" id="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/user/advResults.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/BootStrap.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/BootStrap.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/com/psychicTyrion/UserController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/com/psychicTyrion/UserController.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/user/advSearch.gsp" afterPath="$PROJECT_DIR$/grails-app/views/user/advSearch.gsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/user/search.gsp" afterPath="$PROJECT_DIR$/grails-app/views/user/search.gsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="starling.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$USER_HOME$/.grails/" />
-    <file path="/advSearch.gsp" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1354357665648" ignored="false" />
-    <file path="$USER_HOME$/Downloads/grails-in-action-samples/pledbrook-graina-866d64ba59eaf36182f3b18e6c5ffa0489ef5616/hubbub/grails-app/views/user/advSearch.gsp" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1354356221818" ignored="false" />
-    <file path="$USER_HOME$/Downloads/grails-in-action-samples/pledbrook-graina-866d64ba59eaf36182f3b18e6c5ffa0489ef5616/hubbub/application.properties" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1354356045481" ignored="false" />
-    <file path="$USER_HOME$/Downloads/grails-in-action-samples/pledbrook-graina-866d64ba59eaf36182f3b18e6c5ffa0489ef5616/hubbub/web-app/WEB-INF/applicationContext.xml" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1354355959870" ignored="false" />
-    <file path="/Dummy.txt" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1354355020006" ignored="false" />
-    <file path="$PROJECT_DIR$/../GenericLetterFileSplitter/.idea/workspace.xml" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353806563247" ignored="false" />
-    <file path="$PROJECT_DIR$/../GenericLetterFileSplitter/grails-app/conf/BuildConfig.groovy" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353806057244" ignored="false" />
-    <file path="$PROJECT_DIR$/../GenericLetterFileSplitter/.idea/modules.xml" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353806029110" ignored="false" />
-    <file path="$PROJECT_DIR$/../GenericLetterFileSplitter/.idea/misc.xml" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353805990043" ignored="false" />
-    <file path="/BuildConfig.groovy" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353805347090" ignored="false" />
-    <file path="/a.dummy" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353804994214" ignored="false" />
-    <file path="/Post.groovy" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353793750438" ignored="false" />
-    <file path="/search.gsp" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353793027638" ignored="false" />
-    <file path="/fragment.java" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353790955894" ignored="false" />
-    <file path="/results.gsp" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353452532251" ignored="false" />
-    <file path="/UserController.groovy" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353452075709" ignored="false" />
-    <file path="$USER_HOME$/Downloads/spock-example-0.6/spockframework-spock-example-1f5ac95/.idea/workspace.xml" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353278233800" ignored="false" />
-    <file path="$USER_HOME$/Downloads/spock-example-0.6/spockframework-spock-example-1f5ac95/.idea/modules.xml" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353276467842" ignored="false" />
-    <file path="$USER_HOME$/Downloads/spock-example-0.6/spockframework-spock-example-1f5ac95/.idea/misc.xml" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353276433056" ignored="false" />
-    <file path="/PostIntegrationTests.groovy" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353275573429" ignored="false" />
-    <file path="/PostIntegration.groovy" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353197338775" ignored="false" />
-    <file path="/PostIntegrationSpec.groovy" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353356702890" ignored="false" />
-    <file path="/User.groovy" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353357080131" ignored="false" />
-    <file path="/UserIntegrationSpoc.groovy" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353357647925" ignored="false" />
-    <file path="/UserIntegrationTests.groovy" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353357752549" ignored="false" />
-    <file path="/Profile.groovy" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353359166110" ignored="false" />
-    <file path="/DataSource.groovy" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353626183989" ignored="false" />
-    <file path="/QueryIntegrationTests.groovy" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353626300210" ignored="false" />
-    <file path="/fileSplitter.gsp" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353882593133" ignored="false" />
-    <file path="/FileSplitterController.groovy" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353882664504" ignored="false" />
-    <file path="$PROJECT_DIR$/../GenericLetterFileSplitter/grails-app/controllers/uk/co/cpp/genericFileSplitter/FileSplitterController.groovy" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353882677218" ignored="false" />
+    <file path="/UserController.groovy" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1354403390633" ignored="false" />
+    <file path="/advResults.gsp" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1354402381053" ignored="false" />
+    <file path="/fragment.java" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1354401759163" ignored="false" />
+    <file path="/BootStrap.groovy" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1354400023460" ignored="false" />
+    <file path="/advSearch.gsp" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1354399642226" ignored="false" />
+    <file path="/Dummy.txt" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1354399545669" ignored="false" />
     <file path="$PROJECT_DIR$/../GenericLetterFileSplitter/grails-app/views/fileSplitter/fileSplitter.gsp" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353882682179" ignored="false" />
+    <file path="$PROJECT_DIR$/../GenericLetterFileSplitter/grails-app/controllers/uk/co/cpp/genericFileSplitter/FileSplitterController.groovy" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353882677218" ignored="false" />
+    <file path="/FileSplitterController.groovy" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353882664504" ignored="false" />
+    <file path="/fileSplitter.gsp" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353882593133" ignored="false" />
+    <file path="/QueryIntegrationTests.groovy" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353626300210" ignored="false" />
+    <file path="/DataSource.groovy" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353626183989" ignored="false" />
+    <file path="/Profile.groovy" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353359166110" ignored="false" />
+    <file path="/UserIntegrationTests.groovy" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353357752549" ignored="false" />
+    <file path="/UserIntegrationSpoc.groovy" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353357647925" ignored="false" />
+    <file path="/User.groovy" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353357080131" ignored="false" />
+    <file path="/PostIntegrationSpec.groovy" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353356702890" ignored="false" />
+    <file path="/PostIntegration.groovy" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353197338775" ignored="false" />
+    <file path="/PostIntegrationTests.groovy" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353275573429" ignored="false" />
+    <file path="$USER_HOME$/Downloads/spock-example-0.6/spockframework-spock-example-1f5ac95/.idea/misc.xml" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353276433056" ignored="false" />
+    <file path="$USER_HOME$/Downloads/spock-example-0.6/spockframework-spock-example-1f5ac95/.idea/modules.xml" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353276467842" ignored="false" />
+    <file path="$USER_HOME$/Downloads/spock-example-0.6/spockframework-spock-example-1f5ac95/.idea/workspace.xml" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353278233800" ignored="false" />
+    <file path="/results.gsp" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353452532251" ignored="false" />
+    <file path="/search.gsp" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353793027638" ignored="false" />
+    <file path="/Post.groovy" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353793750438" ignored="false" />
+    <file path="/a.dummy" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353804994214" ignored="false" />
+    <file path="/BuildConfig.groovy" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353805347090" ignored="false" />
+    <file path="$PROJECT_DIR$/../GenericLetterFileSplitter/.idea/misc.xml" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353805990043" ignored="false" />
+    <file path="$PROJECT_DIR$/../GenericLetterFileSplitter/.idea/modules.xml" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353806029110" ignored="false" />
+    <file path="$PROJECT_DIR$/../GenericLetterFileSplitter/grails-app/conf/BuildConfig.groovy" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353806057244" ignored="false" />
+    <file path="$PROJECT_DIR$/../GenericLetterFileSplitter/.idea/workspace.xml" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1353806563247" ignored="false" />
+    <file path="$USER_HOME$/Downloads/grails-in-action-samples/pledbrook-graina-866d64ba59eaf36182f3b18e6c5ffa0489ef5616/hubbub/web-app/WEB-INF/applicationContext.xml" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1354355959870" ignored="false" />
+    <file path="$USER_HOME$/Downloads/grails-in-action-samples/pledbrook-graina-866d64ba59eaf36182f3b18e6c5ffa0489ef5616/hubbub/application.properties" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1354356045481" ignored="false" />
+    <file path="$USER_HOME$/Downloads/grails-in-action-samples/pledbrook-graina-866d64ba59eaf36182f3b18e6c5ffa0489ef5616/hubbub/grails-app/views/user/advSearch.gsp" changelist="7e1bf5eb-2dbb-42d5-b200-c8ddf3de53da" time="1354356221818" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,8 +66,8 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -113,25 +115,43 @@
       <file leaf-file-name="search.gsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/views/user/search.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="96" selection-start="309" selection-end="309" vertical-scroll-proportion="-3.7959185">
+            <state line="17" column="47" selection-start="359" selection-end="359" vertical-scroll-proportion="-1.2857143">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="advSearch.gsp" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="advSearch.gsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/views/user/advSearch.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="88" selection-start="1167" selection-end="1167" vertical-scroll-proportion="0.66573036">
+            <state line="23" column="55" selection-start="538" selection-end="538" vertical-scroll-proportion="-0.3469388">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserController.groovy" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="results.gsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/views/user/results.gsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="32" selection-start="413" selection-end="413" vertical-scroll-proportion="-3.367347">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserController.groovy" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/controllers/com/psychicTyrion/UserController.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="41" selection-start="129" selection-end="129" vertical-scroll-proportion="-6.652174">
+            <state line="9" column="28" selection-start="139" selection-end="139" vertical-scroll-proportion="0.14486921">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="advResults.gsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/views/user/advResults.gsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="54" selection-start="451" selection-end="451" vertical-scroll-proportion="-2.3265307">
               <folding />
             </state>
           </provider>
@@ -140,24 +160,44 @@
       <file leaf-file-name="User.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/domain/com/psychicTyrion/User.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="54" selection-start="834" selection-end="834" vertical-scroll-proportion="-8.208333">
+            <state line="3" column="46" selection-start="126" selection-end="126" vertical-scroll-proportion="-0.73913044">
               <folding />
             </state>
-          </provider>
-          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Post.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/domain/com/psychicTyrion/Post.groovy">
+          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="76" selection-start="259" selection-end="259" vertical-scroll-proportion="0.0">
+            <state line="15" column="76" selection-start="259" selection-end="259" vertical-scroll-proportion="-5.3125">
               <folding />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Profile.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/domain/com/psychicTyrion/Profile.groovy">
           <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
             <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="29" selection-start="274" selection-end="274" vertical-scroll-proportion="-3.1875">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BootStrap.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/conf/BootStrap.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="48" selection-start="477" selection-end="477" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
           </provider>
         </entry>
       </file>
@@ -180,8 +220,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/grails-app/conf/DataSource.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/domain/com/psychicTyrion/Profile.groovy" />
         <option value="$PROJECT_DIR$/test/integration/com/psychicTyrion/QueryIntegrationTests.groovy" />
         <option value="$PROJECT_DIR$/grails-app/controllers/starling/PostController.groovy" />
         <option value="$PROJECT_DIR$/grails-app/controllers/starling/ProfileController.groovy" />
@@ -194,8 +232,10 @@
         <option value="$PROJECT_DIR$/test/unit/com/psychicTyrion/UserTests.groovy" />
         <option value="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
         <option value="$PROJECT_DIR$/grails-app/views/user/search.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/controllers/com/psychicTyrion/UserController.groovy" />
         <option value="$PROJECT_DIR$/grails-app/views/user/advSearch.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/conf/BootStrap.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/views/user/advResults.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/com/psychicTyrion/UserController.groovy" />
       </list>
     </option>
   </component>
@@ -233,6 +273,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -374,7 +415,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -397,8 +437,8 @@
       <recent name="com.psychicTyrion" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\homeLaptop\IdeaProjects\starling" />
       <recent name="C:\Users\homeLaptop\IdeaProjects\starling\grails-app\views\user" />
+      <recent name="C:\Users\homeLaptop\IdeaProjects\starling" />
       <recent name="C:\Users\AmysDelight\IdeaProjects\starling\web-app\images" />
       <recent name="C:\Users\AmysDelight\IdeaProjects\starling\web-app\css" />
     </key>
@@ -471,6 +511,12 @@
         <option name="Make" enabled="false" />
       </method>
     </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
       <module name="" />
       <setting name="vmparams" value="" />
@@ -481,31 +527,12 @@
       <setting name="launchBrowser" value="true" />
       <method />
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
-      <option name="PROGRAM_PARAMETERS" />
-      <method />
-    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -534,6 +561,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -687,7 +727,11 @@
       <created>1353800513184</created>
       <updated>1353800513184</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Working Advanced Search page 114">
+      <created>1354357814672</created>
+      <updated>1354357814672</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -722,9 +766,9 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39952436" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23985891" sideWeight="0.4975329" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23409091" sideWeight="0.6717949" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Grails View" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23355263" sideWeight="0.7601411" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936978" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32804233" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -734,8 +778,8 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2713816" sideWeight="0.7601411" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23985891" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2713816" sideWeight="0.7601411" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23985891" sideWeight="0.49671054" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3270869" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.66944116" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -781,7 +825,7 @@
     <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="added grails test-app -coverage" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working Advanced Search page 114" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -800,6 +844,7 @@
     <MESSAGE value="Very Confused So Stopped" />
     <MESSAGE value="removed stub tests" />
     <MESSAGE value="added grails test-app -coverage" />
+    <MESSAGE value="Working Advanced Search page 114" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -809,46 +854,14 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/unit/com/psychicTyrion/ProfileTests.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="251" selection-end="251" vertical-scroll-proportion="0.59090906" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/unit/com/psychicTyrion/ProfileControllerSpec.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="6" selection-start="274" selection-end="274" vertical-scroll-proportion="0.33417723" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/unit/com/psychicTyrion/PostTests.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="245" selection-end="245" vertical-scroll-proportion="0.55949366" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/unit/com/psychicTyrion/PostControllerSpec.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="6" selection-start="268" selection-end="268" vertical-scroll-proportion="0.33417723" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/com/psychicTyrion/Post.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="76" selection-start="259" selection-end="259" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cobertura.ser">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/com/psychicTyrion/PostController.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="16" selection-start="77" selection-end="77" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/conf/Config.groovy">
@@ -866,16 +879,6 @@
         <state line="39" column="24" selection-start="1637" selection-end="1637" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/com/psychicTyrion/Profile.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="35" selection-start="145" selection-end="145" vertical-scroll-proportion="-0.7708333">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/controllers/com/psychicTyrion/ProfileController.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="6" selection-start="33" selection-end="33" vertical-scroll-proportion="0.063197024">
@@ -883,33 +886,83 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/com/psychicTyrion/User.groovy">
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/com/psychicTyrion/PostController.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="54" selection-start="834" selection-end="834" vertical-scroll-proportion="-8.208333">
+        <state line="6" column="16" selection-start="77" selection-end="77" vertical-scroll-proportion="0.19615385">
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/com/psychicTyrion/User.groovy">
       <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/user/search.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="96" selection-start="309" selection-end="309" vertical-scroll-proportion="-3.7959185">
+        <state line="3" column="46" selection-start="126" selection-end="126" vertical-scroll-proportion="-0.73913044">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/com/psychicTyrion/UserController.groovy">
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/com/psychicTyrion/Post.groovy">
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="41" selection-start="129" selection-end="129" vertical-scroll-proportion="-6.652174">
+        <state line="15" column="76" selection-start="259" selection-end="259" vertical-scroll-proportion="-5.3125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/com/psychicTyrion/Profile.groovy">
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="29" selection-start="274" selection-end="274" vertical-scroll-proportion="-3.1875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/user/results.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="32" selection-start="413" selection-end="413" vertical-scroll-proportion="-3.367347">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/BootStrap.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="48" selection-start="477" selection-end="477" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/user/advResults.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="54" selection-start="451" selection-end="451" vertical-scroll-proportion="-2.3265307">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/user/advSearch.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="88" selection-start="1167" selection-end="1167" vertical-scroll-proportion="0.66573036">
+        <state line="23" column="55" selection-start="538" selection-end="538" vertical-scroll-proportion="-0.3469388">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/user/search.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="47" selection-start="359" selection-end="359" vertical-scroll-proportion="-1.2857143">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/com/psychicTyrion/UserController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="28" selection-start="139" selection-end="139" vertical-scroll-proportion="0.14486921">
           <folding />
         </state>
       </provider>

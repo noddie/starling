@@ -4,11 +4,8 @@ class UserController {
 
     def scaffold = true
 
-    def search = {
-    }
-    def advSearch = {
-
-    }
+    def search = {}
+    def advSearch = {}
 
     def results = {
         def users = User.findAllByUserIdLike(params.userId)
@@ -23,11 +20,11 @@ class UserController {
                 params.each { field, value ->
                     if (profileProps.grep(field)
                             && value) {
-                        ilike(field, value)
+                        ilike(field, '%' + value + '%')
                     }
                 }
             }
         }
-        [ profiles : profiles ]
+        [profiles: profiles]
     }
 }
